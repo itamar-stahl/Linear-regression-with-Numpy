@@ -1,0 +1,10 @@
+In this Jupyter notebook, I use Numpy to implement a linear regression model for house prices data.
+
+It is a Machine learning introduction course's exercise,
+aimed at understanding the theoretical foundations of linear regression,
+and getting basic working skills with Pandas, Numpy, and plotting tools.
+
+The coding style is relatively free. 
+
+The data is from here:
+https://www.kaggle.com/harlfoxem/housesalesprediction/data
